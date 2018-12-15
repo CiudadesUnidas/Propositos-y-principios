@@ -1,13 +1,10 @@
-# Propositos y principios
-Acerca de las Ciudades Unidas, su propósitos, principios y objetivos.  
-
-## Acerca
+# Acerca de las Ciudades Unidas
 Ciudades Unidas es una organización descentralizada, sin fines de lucro, que promueve la creación y transferencia de conocimiento en y entre las ciudades de América Latina y el Caribe (ALC).
 
 Queremos cambiar la forma de enfrentar los grandes retos económicos, sociales y ambientales de la región, a través de la innovación, el emprendimiento y la co-creación de soluciones **abiertas**, **descentralizadas** y **sostenibles**, desde la ciudadanía.  
 
 
-## Propósitos
+# Propósitos
 
 #### Creación y transferencia de conocimiento  
 Fomentar en y entre las ciudades de ALC, la creación y transferencia de conocimiento y mejores prácticas para el desarrollo de la ciencia y la tecnología, con el fin de mejorar la vida, de manera sostenible, para las generaciones futuras.
@@ -22,7 +19,7 @@ Encaminar al talento colectivo de las ciudades hacia la co-creación de solucion
 Elevar el nivel de vida en ALC con nuestras acciones, generando paz, igualdad, dignidad, oportunidad y desarrollo sostenible.  
 
 
-## Principios
+# Principios
 Para la realización de los propósitos de las Ciudades Unidas, la organización y todos los participantes (servidores públicos, académicos, empresarios, emprendedores y ciudadanos en general), procederán en base a los siguientes principios.
 
 #### Respeto, igualdad y colaboración al mismo nivel  
@@ -40,4 +37,7 @@ Todos reconocen y promueven la importancia de aprender, crear y compartir el con
 #### Sentido de urgencia  
 Todos reconocen la urgencia de actuar frente a los grandes retos económicos, sociales y ambientales de nuestras ciudades, para prevenir el incremento de la violencia y para no perder la oportunidad de resolver los problemas, como en el caso del cambio climático.  
 
-## Objetivos
+# Objetivos
+Las Ciudades Unidas trabajamos para construir sociedades más justas, pacíficas e inclusivas, en un mundo sostenible. Nuestros objetivos son los 17 objetivos para el desarrollo sostenible de las Naciones Unidas.
+
+A diferencia de las Naciones Unidas, nosotros trabajamos de abajo hacia arriba, conectando y organizando al talento ciudadano. Conoce los objetivos, involúcrate.
