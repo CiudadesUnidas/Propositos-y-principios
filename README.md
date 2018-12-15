@@ -6,6 +6,7 @@ Ciudades Unidas es una organización descentralizada, sin fines de lucro, que pr
 
 Queremos cambiar la forma de enfrentar los grandes retos económicos, sociales y ambientales de la región, a través de la innovación, el emprendimiento y la co-creación de soluciones **abiertas**, **descentralizadas** y **sostenibles**, desde la ciudadanía.
 
+
 ## Propósitos
 
 ### Creación y transferencia de conocimiento  
@@ -19,6 +20,7 @@ Encaminar al talento colectivo de las ciudades hacia la co-creación de solucion
 
 ### Progreso social  
 Elevar el nivel de vida en ALC con nuestras acciones, generando paz, igualdad, dignidad, oportunidad y desarrollo sostenible.
+
 
 # Principios
 Para la realización de los propósitos de las Ciudades Unidas, la organización y todos los participantes (servidores públicos, académicos, empresarios, emprendedores y ciudadanos en general), procederán en base a los siguientes principios.
