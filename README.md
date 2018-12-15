@@ -9,32 +9,32 @@ Queremos cambiar la forma de enfrentar los grandes retos económicos, sociales y
 ### Creación y transferencia de conocimiento  
 Fomentar en y entre las ciudades de ALC, la creación y transferencia de conocimiento y mejores prácticas para el desarrollo de la ciencia y la tecnología, con el fin de mejorar la vida, de manera sostenible, para las generaciones futuras.
 
-#### Innovación y emprendimiento  
+### Innovación y emprendimiento  
 Promover la innovación y el emprendimiento a través de una estrategia incluyente, que por un lado estimula la creación de proyectos y nuevas empresas de alto impacto económico, social y ambiental, y por el otro, el desarrollo diferenciado de pequeñas comunidades marginadas en base su vocación productiva local.
 
-#### Sostenibilidad  
+### Sostenibilidad  
 Encaminar al talento colectivo de las ciudades hacia la co-creación de soluciones abiertas, descentralizadas y sostenibles a los grandes retos locales, regionales y globales, tomando como base los objetivos de las Naciones Unidas para el desarrollo sostenible.
 
-#### Progreso social  
+### Progreso social  
 Elevar el nivel de vida en ALC con nuestras acciones, generando paz, igualdad, dignidad, oportunidad y desarrollo sostenible.  
 
 
 # Principios
 Para la realización de los propósitos de las Ciudades Unidas, la organización y todos los participantes (servidores públicos, académicos, empresarios, emprendedores y ciudadanos en general), procederán en base a los siguientes principios.
 
-#### Respeto, igualdad y colaboración al mismo nivel  
+### Respeto, igualdad y colaboración al mismo nivel  
 La organización está basada en los principios de respeto e igualdad. Todos reconocen la importancia de colaborar al mismo nivel, para pasar de la desvinculación y las decisiones dispersas, a un rumbo compartido entre el sector público, el sector privado y la ciudadanía.
 
-#### Modernización del aparato productivo existente  
+### Modernización del aparato productivo existente  
 Todos reconocen y aceptan el cambio de paradigma actual generado por las nuevas tecnologías, y colaboran entre sí para desarrollar un nuevo sentido común con nuevos modelos organizativos, a fin de aprovechar las oportunidades que se presentan.
 
-#### Pensamiento crítico, democracia y responsabilidad  
+### Pensamiento crítico, democracia y responsabilidad  
 Todos reconocen y promueven el derecho de los ciudadanos para analizar, entender y evaluar todo lo aceptado como verdadero en su vida cotidiana y para participar de manera activa y responsable en el diseño y ejecución de nuevas soluciones y decisiones colectivas.
 
-#### Desarrollo de inteligencia colectiva  
+### Desarrollo de inteligencia colectiva  
 Todos reconocen y promueven la importancia de aprender, crear y compartir el conocimiento adquirido con los demás, a fin de que más gente pueda aprender, crear y compartir su conocimiento. El objetivo en común de este circulo virtuoso es aprovechar las capacidades distribuidas en los ciudadanos para mejorar la calidad de vida de todos y acelerar el progreso de la humanidad.
 
-#### Sentido de urgencia  
+### Sentido de urgencia  
 Todos reconocen la urgencia de actuar frente a los grandes retos económicos, sociales y ambientales de nuestras ciudades, para prevenir el incremento de la violencia y para no perder la oportunidad de resolver los problemas, como en el caso del cambio climático.  
 
 # Objetivos
@@ -51,7 +51,7 @@ La pobreza va más allá de la falta de ingresos y recursos para garantizar unos
 
 Para lograr este Objetivo de acabar con la pobreza, el crecimiento económico debe ser inclusivo, con el fin de crear empleos sostenibles y de promover la igualdad. Los sistemas de protección social deben aplicarse para mitigar los riesgos de los países propensos a sufrir desastres y brindar apoyo para enfrentarse a las dificultades económicas. Estos sistemas ayudarán a fortalecer las respuestas de las poblaciones afectadas ante pérdidas económicas inesperadas durante los desastres y, finalmente, ayudarán a erradicar la pobreza extrema en las zonas más empobrecidas.
 
-#### Datos destacables
+### Datos destacables
 * Unos 783 millones de personas vive por debajo del umbral de pobreza internacional, con 1,90 dólares diarios.
 * En 2016, menos del 10% de los trabajadores de todo el mundo vivían con sus familias con menos de 1,90 dólares diarios por persona.
 * La mayoría de las personas que viven por debajo del umbral de pobreza viven en dos regiones: Asia meridional y África subsahariana.
@@ -60,7 +60,7 @@ Para lograr este Objetivo de acabar con la pobreza, el crecimiento económico de
 * En 2016, solo el 45% de la población mundial estaba amparada efectivamente por un sistema de protección social con al menos una prestación en efectivo.
 * En 2017, las pérdidas económicas debidas a desastres, incluidos tres grandes huracanes en los Estados Unidos y el Caribe, se estimaron en más de 300 mil millones de dólares.
 
-#### Metas
+### Metas
 **1.1**  Para 2030, erradicar la pobreza extrema para todas las personas en el mundo, actualmente medida por un ingreso por persona inferior a 1,25 dólares de los Estados Unidos al día
 
 **1.2**  Para 2030, reducir al menos a la mitad la proporción de hombres, mujeres y niños de todas las edades que viven en la pobreza en todas sus dimensiones con arreglo a las definiciones nacionales
@@ -88,7 +88,7 @@ Necesitamos una profunda reforma del sistema agrario y alimentario mundial si qu
 
 Las inversiones en agricultura son cruciales para aumentar la capacidad productiva agrícola y los sistemas de producción alimentaria sostenibles son necesarios para ayudar a mitigar las dificultades del hambre.
 
-#### Datos destacables
+### Datos destacables
 
 **Hambre**
 
@@ -105,7 +105,7 @@ Las inversiones en agricultura son cruciales para aumentar la capacidad producti
 * Se han logrado ciertos avances en la prevención de las distorsiones de los mercados agrícolas mundiales. Los subsidios a la exportación agrícola se redujeron a escala mundial en un 94% entre 2000 y 2014. En diciembre de 2015, los miembros de la Organización Mundial del Comercio aprobaron una decisión ministerial sobre la eliminación de los subsidios a la exportación de productos agrícolas y la restricción de las medidas de exportación que tenían un efecto similar.
 * Lamentablemente, el número total de personas que sufre hambre en América Latina y el Caribe ha aumentado, revirtiendo décadas de progresos.  
 
-#### Metas  
+### Metas  
 
 **2.1**  Para 2030, poner fin al hambre y asegurar el acceso de todas las personas, en particular los pobres y las personas en situaciones vulnerables, incluidos los lactantes, a una alimentación sana, nutritiva y suficiente durante todo el año
 
@@ -132,7 +132,7 @@ Sin embargo, en muchas regiones se enfrentan a graves riesgos para la salud, com
 
 Se necesitan muchas más iniciativas para erradicar por completo una amplia gama de enfermedades y para hacer frente a numerosas y variadas cuestiones persistentes y emergentes relativas a la salud. Si nos centramos en proporcionar una financiación más eficiente de los sistemas de salud, mejorar el saneamiento y la higiene, aumentar el acceso a los servicios médicos y proveer más consejos sobre cómo reducir la contaminación ambiental, lograremos progresos significativos en ayudar a salvar las vidas de millones de personas.  
 
-#### Datos destacables  
+### Datos destacables  
 
 **Salud infantil**
 
@@ -165,7 +165,7 @@ Se necesitan muchas más iniciativas para erradicar por completo una amplia gama
 * Se han evitado más de 6,2 millones de muertes por malaria entre 2000 y 2015, principalmente de niños menores de cinco años en el África Subsahariana. La tasa de incidencia mundial de la malaria ha disminuido en un 37% y las tasas de mortalidad en un 58%.
 * Entre 2000 y 2013, las intervenciones de prevención, diagnóstico y tratamiento de tuberculosis salvaron aproximadamente 37 millones de vidas. La tasa de mortalidad por tuberculosis disminuyó en un 45% y la tasa de prevalencia en un 41% entre 1990 y 2013.  
 
-#### Metas  
+### Metas  
 
 **3.1**  Para 2030, reducir la tasa mundial de mortalidad materna a menos de 70 por cada 100.000 nacidos vivos
 
