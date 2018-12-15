@@ -6,7 +6,7 @@ Queremos cambiar la forma de enfrentar los grandes retos económicos, sociales y
 
 # Propósitos
 
-#### Creación y transferencia de conocimiento  
+### Creación y transferencia de conocimiento  
 Fomentar en y entre las ciudades de ALC, la creación y transferencia de conocimiento y mejores prácticas para el desarrollo de la ciencia y la tecnología, con el fin de mejorar la vida, de manera sostenible, para las generaciones futuras.
 
 #### Innovación y emprendimiento  
