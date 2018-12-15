@@ -41,3 +41,13 @@ Todos reconocen la urgencia de actuar frente a los grandes retos económicos, so
 Las Ciudades Unidas trabajamos para construir sociedades más justas, pacíficas e inclusivas, en un mundo sostenible. Nuestros objetivos son los 17 objetivos para el desarrollo sostenible de las Naciones Unidas.
 
 A diferencia de las Naciones Unidas, nosotros trabajamos de abajo hacia arriba, conectando y organizando al talento ciudadano. Conoce los objetivos, involúcrate.
+
+## Pobreza
+#### Problema
+* Unos 783 millones de personas vive por debajo del umbral de pobreza internacional, con 1,90 dólares diarios.
+* En 2016, menos del 10% de los trabajadores de todo el mundo vivían con sus familias con menos de 1,90 dólares diarios por persona.
+* La mayoría de las personas que viven por debajo del umbral de pobreza viven en dos regiones: Asia meridional y África subsahariana.
+* Las altas tasas de pobreza se encuentran a menudo en los países pequeños, frágiles y afectados por conflictos.
+* Uno de cada cuatro niños menores de cinco años, en todo el mundo, tiene una estatura inadecuada para su edad.
+* En 2016, solo el 45% de la población mundial estaba amparada efectivamente por un sistema de protección social con al menos una prestación en efectivo.
+* En 2017, las pérdidas económicas debidas a desastres, incluidos tres grandes huracanes en los Estados Unidos y el Caribe, se estimaron en más de 300 mil millones de dólares.
