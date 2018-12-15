@@ -121,4 +121,73 @@ Las inversiones en agricultura son cruciales para aumentar la capacidad producti
 
 **2.b**  Corregir y prevenir las restricciones y distorsiones comerciales en los mercados agropecuarios mundiales, entre otras cosas mediante la eliminación paralela de todas las formas de subvenciones a las exportaciones agrícolas y todas las medidas de exportación con efectos equivalentes, de conformidad con el mandato de la Ronda de Doha para el Desarrollo
 
-**2.c**  Adoptar medidas para asegurar el buen funcionamiento de los mercados de productos básicos alimentarios y sus derivados y facilitar el acceso oportuno a información sobre los mercados, en particular sobre las reservas de alimentos, a fin de ayudar a limitar la extrema volatilidad de los precios de los alimentos
+**2.c**  Adoptar medidas para asegurar el buen funcionamiento de los mercados de productos básicos alimentarios y sus derivados y facilitar el acceso oportuno a información sobre los mercados, en particular sobre las reservas de alimentos, a fin de ayudar a limitar la extrema volatilidad de los precios de los alimentos  
+
+## Objetivo 3: Salud y Bienestar  
+**Garantizar una vida sana y promover el bienestar para todos en todas las edades**  
+
+Para lograr los Objetivos de Desarrollo Sostenible es fundamental garantizar una vida saludable y promover el bienestar universal.
+
+Sin embargo, en muchas regiones se enfrentan a graves riesgos para la salud, como altas tasas de mortalidad materna y neonatal, la propagación de enfermedades infecciosas y no transmisibles y una mala salud reproductiva. En las últimas décadas, se han obtenido grandes avances en relación con el aumento de la esperanza de vida y la reducción de algunas de las causas de muerte más comunes relacionadas con la mortalidad infantil y materna, pero para lograr la meta de este Objetivo, que establece que en 2030 haya menos de 70 fallecimientos, se deberá mejorar la asistencia cualificada en los partos. Asimismo, para alcanzar el objetivo de reducir las muertes prematuras por enfermedades no transmisibles en un tercio para 2030 se requerirá aplicar tecnologías más eficaces de combustibles limpios para cocinar y educación sobre los riesgos del tabaco.
+
+Se necesitan muchas más iniciativas para erradicar por completo una amplia gama de enfermedades y para hacer frente a numerosas y variadas cuestiones persistentes y emergentes relativas a la salud. Si nos centramos en proporcionar una financiación más eficiente de los sistemas de salud, mejorar el saneamiento y la higiene, aumentar el acceso a los servicios médicos y proveer más consejos sobre cómo reducir la contaminación ambiental, lograremos progresos significativos en ayudar a salvar las vidas de millones de personas.  
+
+#### Datos destacables  
+
+**Salud infantil**
+
+* Cada día mueren 17.000 niños menos que en 1990, pero más de cinco millones de niños mueren cada año hoy en día antes de cumplir los 5 años.
+* Desde 2000, las vacunas contra el sarampión han evitado casi 15,6 millones de muertes.
+* A pesar de los avances en todo el mundo, la mortalidad de niños menores de 5 años de edad sigue siendo elevada en África Subsahariana y en Asia Meridional. Cuatro de cada cinco muertes de los menores de cinco años ocurren en estas regiones.
+* Los niños que nacen pobres tienen casi el doble de probabilidades de morir antes de los cinco años que los de las familias más ricas.
+* Los hijos de madres que han recibido educación, incluso las madres con tan solo educación primaria, tienen más probabilidades de sobrevivir que los hijos de madres sin educación.  
+
+**Salud materna**
+
+* La mortalidad materna ha disminuido en un 37% desde 2000.
+* En Asia oriental, África septentrional y Asia meridional, la mortalidad materna ha disminuido alrededor de dos tercios.
+* Pero la tasa de mortalidad materna —la proporción de madres que no sobreviven al parto en comparación con las que lo hacen— en las regiones en desarrollo es todavía 14 veces mayor que en las regiones desarrolladas.
+* Más mujeres están recibiendo atención prenatal. En las regiones en desarrollo, la atención prenatal aumentó del 65% en 1990 al 83% en 2012.
+* Tan solo la mitad de las mujeres de las regiones en desarrollo reciben la cantidad recomendada de atención médica que necesitan.
+* En la mayoría de las regiones en desarrollo, menos adolescentes tienen hijos, pero este progreso se ha ralentizado. El gran aumento que tuvo lugar en la década de los noventa del uso de anticonceptivos no se corresponde con el que se ha da en los años del 2000.
+* La necesidad de planificación familiar se está cubriendo lentamente para más mujeres, mientras que la demanda sigue aumenta rápidamente.  
+**VIH/SIDA, malaria y otras enfermedades**
+
+* A finales de 2014, había 13,6 millones de personas con acceso a tratamientos con antirretrovirales.
+* Las infecciones por el VIH en 2013 se estimaron en 2,1 millones, un 38% menos que en 2001.
+* A finales de 2013, se estima que unos 35 millones de personas vivían con el VIH.
+* A finales de 2013, 240.000 niños se habían infectado por primera vez con el VIH.
+* Las nuevas infecciones por el VIH entre niños han disminuido en un 58% desde 2001.
+* En todo el mundo, las adolescentes y las mujeres jóvenes se enfrentan a desigualdades basadas en el género, exclusión, discriminación y violencia, lo que las expone a un mayor riesgo de contraer el VIH.
+* El VIH es la principal causa de muerte entre las mujeres en edad de reproducir en todo el mundo.
+* El SIDA es actualemente la principal causa de muerte entre los adolescentes (de entre 10 y 19 años) en África y la segunda causa más común de muerte entre los adolescentes de todo el mundo.
+* Se han evitado más de 6,2 millones de muertes por malaria entre 2000 y 2015, principalmente de niños menores de cinco años en el África Subsahariana. La tasa de incidencia mundial de la malaria ha disminuido en un 37% y las tasas de mortalidad en un 58%.
+* Entre 2000 y 2013, las intervenciones de prevención, diagnóstico y tratamiento de tuberculosis salvaron aproximadamente 37 millones de vidas. La tasa de mortalidad por tuberculosis disminuyó en un 45% y la tasa de prevalencia en un 41% entre 1990 y 2013.  
+
+#### Metas  
+
+**3.1**  Para 2030, reducir la tasa mundial de mortalidad materna a menos de 70 por cada 100.000 nacidos vivos
+
+**3.2**  Para 2030, poner fin a las muertes evitables de recién nacidos y de niños menores de 5 años, logrando que todos los países intenten reducir la mortalidad neonatal al menos hasta 12 por cada 1.000 nacidos vivos, y la mortalidad de niños menores de 5 años al menos hasta 25 por cada 1.000 nacidos vivos
+
+**3.3**  Para 2030, poner fin a las epidemias del SIDA, la tuberculosis, la malaria y las enfermedades tropicales desatendidas y combatir la hepatitis, las enfermedades transmitidas por el agua y otras enfermedades transmisibles
+
+**3.4**  Para 2030, reducir en un tercio la mortalidad prematura por enfermedades no transmisibles mediante la prevención y el tratamiento y promover la salud mental y el bienestar
+
+**3.5**  Fortalecer la prevención y el tratamiento del abuso de sustancias adictivas, incluido el uso indebido de estupefacientes y el consumo nocivo de alcohol
+
+**3.6**  Para 2020, reducir a la mitad el número de muertes y lesiones causadas por accidentes de tráfico en el mundo
+
+**3.7**  Para 2030, garantizar el acceso universal a los servicios de salud sexual y reproductiva, incluidos los de planificación de la familia, información y educación, y la integración de la salud reproductiva en las estrategias y los programas nacionales
+
+**3.8**  Lograr la cobertura sanitaria universal, en particular la protección contra los riesgos financieros, el acceso a servicios de salud esenciales de calidad y el acceso a medicamentos y vacunas seguros, eficaces, asequibles y de calidad para todos
+
+**3.9**  Para 2030, reducir sustancialmente el número de muertes y enfermedades producidas por productos químicos peligrosos y la contaminación del aire, el agua y el suelo
+
+**3.a**  Fortalecer la aplicación del Convenio Marco de la Organización Mundial de la Salud para el Control del Tabaco en todos los países, según proceda
+
+**3.b**  Apoyar las actividades de investigación y desarrollo de vacunas y medicamentos para las enfermedades transmisibles y no transmisibles que afectan primordialmente a los países en desarrollo y facilitar el acceso a medicamentos y vacunas esenciales asequibles de conformidad con la Declaración de Doha relativa al Acuerdo sobre los ADPIC y la Salud Pública, en la que se afirma el derecho de los países en desarrollo a utilizar al máximo las disposiciones del Acuerdo sobre los Aspectos de los Derechos de Propiedad Intelectual Relacionados con el Comercio en lo relativo a la flexibilidad para proteger la salud pública y, en particular, proporcionar acceso a los medicamentos para todos
+
+**3.c**  Aumentar sustancialmente la financiación de la salud y la contratación, el desarrollo, la capacitación y la retención del personal sanitario en los países en desarrollo, especialmente en los países menos adelantados y los pequeños Estados insulares en desarrollo
+
+**3.d**  Reforzar la capacidad de todos los países, en particular los países en desarrollo, en materia de alerta temprana, reducción de riesgos y gestión de los riesgos para la salud nacional y mundial
