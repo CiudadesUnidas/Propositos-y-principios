@@ -150,7 +150,8 @@ Se necesitan muchas más iniciativas para erradicar por completo una amplia gama
 * Más mujeres están recibiendo atención prenatal. En las regiones en desarrollo, la atención prenatal aumentó del 65% en 1990 al 83% en 2012.
 * Tan solo la mitad de las mujeres de las regiones en desarrollo reciben la cantidad recomendada de atención médica que necesitan.
 * En la mayoría de las regiones en desarrollo, menos adolescentes tienen hijos, pero este progreso se ha ralentizado. El gran aumento que tuvo lugar en la década de los noventa del uso de anticonceptivos no se corresponde con el que se ha da en los años del 2000.
-* La necesidad de planificación familiar se está cubriendo lentamente para más mujeres, mientras que la demanda sigue aumenta rápidamente.    
+* La necesidad de planificación familiar se está cubriendo lentamente para más mujeres, mientras que la demanda sigue aumenta rápidamente.   
+
 **VIH/SIDA, malaria y otras enfermedades**
 
 * A finales de 2014, había 13,6 millones de personas con acceso a tratamientos con antirretrovirales.
