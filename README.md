@@ -1,3 +1,6 @@
+![CUN Logo](https://static1.squarespace.com/static/59eb90deb07869b971fe6ddd/t/5a4d262e24a694d32c28fce7/1544826545119/?format=1500w)
+Format: ![Alt Text](url)
+
 # Acerca de las Ciudades Unidas
 Ciudades Unidas es una organización descentralizada, sin fines de lucro, que promueve la creación y transferencia de conocimiento en y entre las ciudades de América Latina y el Caribe (ALC).
 
@@ -42,7 +45,7 @@ Las Ciudades Unidas trabajamos para construir sociedades más justas, pacíficas
 
 A diferencia de las Naciones Unidas, nosotros trabajamos de abajo hacia arriba, conectando y organizando al talento ciudadano. Conoce los objetivos, involúcrate.
 
-## 1. Poner fin a la pobreza en todas sus formas en todo el mundo
+## Objetivo 1: Poner fin a la pobreza en todas sus formas en todo el mundo
 Pese a que la tasa de pobreza mundial se ha reducido a la mitad desde el año 2000, en las regiones en desarrollo aún una de cada diez personas, y sus familias, sigue subsistiendo con 1,90 dólares diarios y hay millones más que ganan poco más que esta cantidad diaria. Se han logrado avances significativos en muchos países del Asia oriental y sudoriental, pero casi el 42% de la población del África Subsahariana continúa viviendo por debajo del umbral de la pobreza.
 
 La pobreza va más allá de la falta de ingresos y recursos para garantizar unos medios de vida sostenibles. La pobreza es un problema de derechos humanos. Entre las distintas manifestaciones de la pobreza figuran el hambre, la malnutrición, la falta de una vivienda digna y el acceso limitado a otros servicios básicos como la educación o la salud. También se encuentran la discriminación y la exclusión social, que incluye la ausencia de la participación de los pobres en la adopción de decisiones, especialmente de aquellas que les afectan.
@@ -73,4 +76,4 @@ Para lograr este Objetivo de acabar con la pobreza, el crecimiento económico de
 
 **1.b**   Crear marcos normativos sólidos en los planos nacional, regional e internacional, sobre la base de estrategias de desarrollo en favor de los pobres que tengan en cuenta las cuestiones de género, a fin de apoyar la inversión acelerada en medidas para erradicar la pobreza
 
-## 2. 
+## Objetivo 2: Poner fin al hambre, lograr la seguridad alimentaria y la mejora de la nutrición y promover la agricultura sostenible
