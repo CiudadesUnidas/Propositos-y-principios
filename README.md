@@ -75,4 +75,31 @@ Para lograr este Objetivo de acabar con la pobreza, el crecimiento económico de
 
 **1.b**   Crear marcos normativos sólidos en los planos nacional, regional e internacional, sobre la base de estrategias de desarrollo en favor de los pobres que tengan en cuenta las cuestiones de género, a fin de apoyar la inversión acelerada en medidas para erradicar la pobreza
 
-## Objetivo 2: Poner fin al hambre, lograr la seguridad alimentaria y la mejora de la nutrición y promover la agricultura sostenible
+## Objetivo 2: Hambre Cero
+**Poner fin al hambre, lograr la seguridad alimentaria y la mejora de la nutrición y promover la agricultura sostenible**  
+El sector alimentario y el sector agrícola ofrecen soluciones claves para el desarrollo y son vitales para la eliminación del hambre y la pobreza. Gestionadas de forma adecuada, la agricultura, la silvicultura y la acuicultura pueden suministrar comida nutritiva a todo el planeta, así como generar ingresos decentes, apoyar el desarrollo centrado en las personas del campo y proteger el medio ambiente.
+
+Pero ahora mismo, nuestros suelos, océanos, bosques y nuestra agua potable y biodiversidad están sufriendo un rápido proceso de degradación debido a procesos de sobreexplotación.
+
+A esto se añade el cambio climático, que repercute sobre los recursos de los que dependemos y aumenta los riesgos asociados a los desastres naturales tales como las sequías y las inundaciones. Muchas campesinas y campesinos ya no pueden ganarse la vida en las tierras que trabajan, lo que les obliga a emigrar a las ciudades en busca de oportunidades.
+
+Necesitamos una profunda reforma del sistema agrario y alimentario mundial si queremos nutrir a los 815 millones de hambrientos que existen actualmente en el planeta y a los dos mil millones de personas adicionales que vivirán en el año 2050.
+
+Las inversiones en agricultura son cruciales para aumentar la capacidad productiva agrícola y los sistemas de producción alimentaria sostenibles son necesarios para ayudar a mitigar las dificultades del hambre.
+
+#### Datos destacables
+
+**Hambre**
+
+* Una de cada nueve personas en el mundo está subalimentada en la actualidad; esto es, alrededor de 815 millones de personas en el mundo.
+* En 2016, unos 155 millones de niños menores de 5 años sufrían retraso en el crecimiento (eran demasiado pequeños para su edad, como consecuencia de una malnutrición crónica). En todo el mundo, la tasa de retraso en el crecimiento se redujo del 33% en 2000 al 23% en 2016. Las tres cuartas partes de los niños con retraso en el crecimiento en ese año vivían en Asia Meridional y África Subsahariana.
+* En 2016, se estima que en todo el mundo 52 millones de niños menores de 5 años de edad padecían emaciación (un peso bajo para su estatura, por lo general como resultado de una escasez alimentaria aguda o de una enfermedad, o por ambas cosas). La tasa mundial de emaciación era del 7,7% en 2016, con la tasa más elevada (15,4%) en Asia Meridional. En el otro extremo del espectro, el sobrepeso y la obesidad afectaban a 41 millones de niños menores de 5 años en todo el mundo (6%) en 2016.  
+
+**Seguridad alimentaria**
+
+* El fin del hambre exige sistemas de producción alimentaria sostenibles y prácticas agrícolas resilientes. Un aspecto de ese esfuerzo consiste en mantener la diversidad genética de plantas y animales, que es crucial para la agricultura y la producción de alimentos. En 2016, se conservaban 4,7 millones de muestras de semillas y otros materiales genéticos vegetales para la agricultura y la alimentación en 602 bancos de genes en 82 países y 14 centros regionales e internacionales, lo que supone un aumento del 2% desde 2014.
+* Se necesitan aumentar las inversiones para mejorar la capacidad de la productividad agrícola. Sin embargo, el índice de orientación agrícola, que se define como la proporción del gasto público destinada a la agricultura dividida por la proporción del sector en el producto interno bruto (PIB), disminuyó a nivel mundial de 0,38 en 2001, a 0,24 en 2013 y a 0,21 en 2015.
+* La proporción de la ayuda por sector, asignada a la agricultura por los países miembros del Comité de Asistencia para el Desarrollo de la Organización de Cooperación y Desarrollo Económicos (OCDE), disminuyó desde casi el 20% a mediados de la década de 1980 hasta el 7% a finales de la década de 1990, porcentaje que se mantuvo hasta 2015. Esa reducción refleja un desplazamiento desde la ayuda para financiar la infraestructura y la producción hacia una mayor atención a los sectores sociales.
+* En 2016, 21 países experimentaron precios internos altos o moderadamente altos, en relación con los niveles históricos, para uno o varios cereales básicos. De esos países, 13 estaban en África Subsahariana. Las causas principales de los elevados precios fueron la disminución de la producción nacional, la depreciación de la moneda y la inseguridad. El aumento localizado de los precios del combustible también impulsó al alza el precio de los alimentos.
+* Se han logrado ciertos avances en la prevención de las distorsiones de los mercados agrícolas mundiales. Los subsidios a la exportación agrícola se redujeron a escala mundial en un 94% entre 2000 y 2014. En diciembre de 2015, los miembros de la Organización Mundial del Comercio aprobaron una decisión ministerial sobre la eliminación de los subsidios a la exportación de productos agrícolas y la restricción de las medidas de exportación que tenían un efecto similar.
+* Lamentablemente, el número total de personas que sufre hambre en América Latina y el Caribe ha aumentado, revirtiendo décadas de progresos.
