@@ -42,7 +42,8 @@ Las Ciudades Unidas trabajamos para construir sociedades más justas, pacíficas
 
 A diferencia de las Naciones Unidas, nosotros trabajamos de abajo hacia arriba, conectando y organizando al talento ciudadano. Conoce los objetivos, involúcrate.
 
-## Objetivo 1: Poner fin a la pobreza en todas sus formas en todo el mundo
+## Objetivo 1: Fin de la pobreza
+Poner fin a la pobreza en todas sus formas en todo el mundo. 
 
 Pese a que la tasa de pobreza mundial se ha reducido a la mitad desde el año 2000, en las regiones en desarrollo aún una de cada diez personas, y sus familias, sigue subsistiendo con 1,90 dólares diarios y hay millones más que ganan poco más que esta cantidad diaria. Se han logrado avances significativos en muchos países del Asia oriental y sudoriental, pero casi el 42% de la población del África Subsahariana continúa viviendo por debajo del umbral de la pobreza.
 
