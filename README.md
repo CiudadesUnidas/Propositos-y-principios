@@ -229,4 +229,26 @@ Las razones de la falta de una educación de calidad son la escasez de profesore
 
 **4.b**  De aquí a 2020, aumentar considerablemente a nivel mundial el número de becas disponibles para los países en desarrollo, en particular los países menos adelantados, los pequeños Estados insulares en desarrollo y los países africanos, a fin de que sus estudiantes puedan matricularse en programas de enseñanza superior, incluidos programas de formación profesional y programas técnicos, científicos, de ingeniería y de tecnología de la información y las comunicaciones, de países desarrollados y otros países en desarrollo
 
-**4.c**  De aquí a 2030, aumentar considerablemente la oferta de docentes calificados, incluso mediante la cooperación internacional para la formación de docentes en los países en desarrollo, especialmente los países menos adelantados y los pequeños Estados insulares en desarrollo
+**4.c**  De aquí a 2030, aumentar considerablemente la oferta de docentes calificados, incluso mediante la cooperación internacional para la formación de docentes en los países en desarrollo, especialmente los países menos adelantados y los pequeños Estados insulares en desarrollo  
+
+## Objetivo 5: Igualdad de Genero  
+**Lograr la igualdad entre los géneros y empoderar a todas las mujeres y las niñas**  
+
+Si bien entre 2000 y 2015 se produjeron avances a nivel mundial con relación a la igualdad entre los géneros gracias a los Objetivos de Desarrollo del Milenio (incluida la igualdad de acceso a la enseñanza primaria), las mujeres y las niñas siguen sufriendo la discriminación y la violencia en todos los lugares del mundo.
+
+La igualdad entre los géneros no es solo un derecho humano fundamental, sino la base necesaria para conseguir un mundo pacífico, próspero y sostenible. Lamentablemente, en la actualidad, 1 de cada 5 mujeres y niñas entre 15 y 49 años de edad afirmaron haber experimentado violencia física o sexual, o ambas, en manos de su pareja en los 12 meses anteriores a ser preguntadas sobre este asunto. Además, 49 países no tienen leyes que protejan a las mujeres de la violencia doméstica. Asimimso, aunque se ha avanzado a la hora de proteger a las mujeres y niñas de prácticas nocivas como el matrimonio infantil y la mutilación genital femenina (MGF), que ha disminuido en un 30% en la última década, aún queda mucho trabajo por hacer para acabar con esas prácticas.
+
+Si se facilita la igualdad a las mujeres y niñas en el acceso a la educación, a la atención médica, a un trabajo decente, y una representación en los procesos de adopción de decisiones políticas y económicas, se estarán impulsando las economías sostenibles y las sociedades y la humanidad en su conjunto se beneficiarán al mismo tiempo.
+
+Estableciendo nuevos marcos legales sobre la igualdad de las mujeres en el lugar de trabajo y la erradicación de las prácticas nocivas sobre las mujeres es crucial para acabar con la discriminación basada en el género que prevalece en muchos países del mundo.  
+
+### Datos destacables  
+
+* Alrededor de dos tercios de los países de las regiones en desarrollo han logrado la paridad entre los géneros en la educación primaria.
+* En África Subsahariana, Oceanía y Asia Occidental, las niñas todavía tienen muchas dificultades para acceder a la educación primaria y secundaria.
+* Las mujeres del África Septentrional ocupan menos de 1 de cada 5 de los empleos remunerados en el sector no agrícola. La proporción de mujeres con empleo remunerado fuera del sector agrícola ha aumentado del 35% en 1990 al 41% en 2015.
+* En 46 países, las mujeres ahora ocupan más del 30% de los escaños en los parlamentos nacionales en al menos una cámara.
+* En Asia Meridional, el riesgo que corren las niñas de contraer matrimonio en su infancia ha disminuido en más del 40% desde 2000. El matrimonio infantil está disminuyendo, pero no con la suficiente rapidez.
+* Desde alrededor de 2000, la práctica tradicional nociva de la mutilación o ablación genital femenina ha disminuido en un 24%. No obstante, la prevalencia sigue siendo elevada en algunos de los 30 países que disponen de datos representativos. En 2017 1 de cada 3 niñas de edades comprendidas entre los 15 y los 19 años habían sufrido esa práctica, en comparación con casi 1 de cada 2 niñas alrededor de 2000.  
+
+### Metas
