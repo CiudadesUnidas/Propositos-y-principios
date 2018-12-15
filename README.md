@@ -251,4 +251,99 @@ Estableciendo nuevos marcos legales sobre la igualdad de las mujeres en el lugar
 * En Asia Meridional, el riesgo que corren las niñas de contraer matrimonio en su infancia ha disminuido en más del 40% desde 2000. El matrimonio infantil está disminuyendo, pero no con la suficiente rapidez.
 * Desde alrededor de 2000, la práctica tradicional nociva de la mutilación o ablación genital femenina ha disminuido en un 24%. No obstante, la prevalencia sigue siendo elevada en algunos de los 30 países que disponen de datos representativos. En 2017 1 de cada 3 niñas de edades comprendidas entre los 15 y los 19 años habían sufrido esa práctica, en comparación con casi 1 de cada 2 niñas alrededor de 2000.  
 
-### Metas
+### Metas  
+
+**5.1**  Poner fin a todas las formas de discriminación contra todas las mujeres y las niñas en todo el mundo
+
+**5.2**  Eliminar todas las formas de violencia contra todas las mujeres y las niñas en los ámbitos público y privado, incluidas la trata y la explotación sexual y otros tipos de explotación
+
+**5.3**  Eliminar todas las prácticas nocivas, como el matrimonio infantil, precoz y forzado y la mutilación genital femenina
+
+**5.4**  Reconocer y valorar los cuidados y el trabajo doméstico no remunerados mediante servicios públicos, infraestructuras y políticas de protección social, y promoviendo la responsabilidad compartida en el hogar y la familia, según proceda en cada país
+
+5.5  Asegurar la participación plena y efectiva de las mujeres y la igualdad de oportunidades de liderazgo a todos los niveles decisorios en la vida política, económica y pública
+
+5.6  Asegurar el acceso universal a la salud sexual y reproductiva y los derechos reproductivos según lo acordado de conformidad con el Programa de Acción de la Conferencia Internacional sobre la Población y el Desarrollo, la Plataforma de Acción de Beijing y los documentos finales de sus conferencias de examen
+
+5.a  Emprender reformas que otorguen a las mujeres igualdad de derechos a los recursos económicos, así como acceso a la propiedad y al control de la tierra y otros tipos de bienes, los servicios financieros, la herencia y los recursos naturales, de conformidad con las leyes nacionales
+
+5.b  Mejorar el uso de la tecnología instrumental, en particular la tecnología de la información y las comunicaciones, para promover el empoderamiento de las mujeres
+
+5.c  Aprobar y fortalecer políticas acertadas y leyes aplicables para promover la igualdad de género y el empoderamiento de todas las mujeres y las niñas a todos los niveles  
+
+## Objetivo 6: Agua Limpia y Saneamiento  
+**Garantizar la disponibilidad de agua y su gestión sostenible y el saneamiento para todos**  
+
+El agua libre de impurezas y accesible para todos es parte esencial del mundo en que queremos vivir. Hay suficiente agua dulce en el planeta para lograr este sueño. Sin embargo, actualmente el reparto del agua no es el adecuado y para el año 2050 se espera que al menos un 25% de la población mundial viva en un país afectado por escasez crónica y reiterada de agua dulce. La sequía afecta a algunos de los países más pobres del mundo, recrudece el hambre y la desnutrición.
+
+Esa escasez de recursos hídricos, junto con la mala calidad del agua y el saneamiento inadecuado repercuten en la seguridad alimentaria, los medios de subsistencia y la oportunidad de educación para las familias pobres en todo el mundo. Afortunadamente, se han hecho algunos avances en la última década y más del 90% de la población mundial tiene acceso a fuentes de agua potable mejoradas.
+
+Para mejorar el acceso a agua apta para el consumo y al saneamiento, y la gestión racional de los ecosistemas de agua dulce entre las comunidades locales en varios países en desarrollo del África Subsahariana, Asia Central, Asia Meridional, Asia Oriental y Asia Sudoriental.  
+
+### Datos destacables  
+
+* 3 de cada 10 personas carecen de acceso a servicios de agua potable seguros y 6 de cada 10 carecen de acceso a instalaciones de saneamiento gestionadas de forma segura.
+* Al menos 892 millones de personas continúan con la práctica insalubre de la defecación al aire libre.
+* Las mujeres y las niñas son las encargadas de  recolectar agua en el 80% de los hogares sin acceso a agua corriente.
+* Entre 1990 y 2015, la proporción de población mundial que utilizaba una fuente mejorada de agua potable pasó del 76% al 90%.
+* La escasez de agua afecta a más del 40% de la población mundial y se prevé que esta porcentaje aumente. Más de 1700 millones de personas viven actualmente en cuencas fluviales en las que el consumo de agua supera la recarga.
+* 2400 millones de personas carecen de acceso a servicios básicos de saneamiento, como retretes o letrinas.
+* Más del 80% de las aguas residuales resultantes de actividades humanas se vierten en los ríos o el mar sin ningún tratamiento, lo que provoca su contaminación.
+* Cada día, alrededor de 1000 niños mueren debido a enfermedades diarreicas asociadas a la falta de higiene.
+* Aproximadamente el 70% de todas las aguas extraídas de los ríos, lagos y acuíferos se utilizan para el riego.
+* Las inundaciones y otros desastres relacionados con el agua representan el 70% de todas las muertes relacionadas con desastres naturales  
+### Metas  
+
+**6.1**  De aquí a 2030, lograr el acceso universal y equitativo al agua potable a un precio asequible para todos
+
+**6.2**  De aquí a 2030, lograr el acceso a servicios de saneamiento e higiene adecuados y equitativos para todos y poner fin a la defecación al aire libre, prestando especial atención a las necesidades de las mujeres y las niñas y las personas en situaciones de vulnerabilidad
+
+**6.3**  De aquí a 2030, mejorar la calidad del agua reduciendo la contaminación, eliminando el vertimiento y minimizando la emisión de productos químicos y materiales peligrosos, reduciendo a la mitad el porcentaje de aguas residuales sin tratar y aumentando considerablemente el reciclado y la reutilización sin riesgos a nivel mundial
+
+**6.4**  De aquí a 2030, aumentar considerablemente el uso eficiente de los recursos hídricos en todos los sectores y asegurar la sostenibilidad de la extracción y el abastecimiento de agua dulce para hacer frente a la escasez de agua y reducir considerablemente el número de personas que sufren falta de agua
+
+**6.5**  De aquí a 2030, implementar la gestión integrada de los recursos hídricos a todos los niveles, incluso mediante la cooperación transfronteriza, según proceda
+
+**6.6**  De aquí a 2020, proteger y restablecer los ecosistemas relacionados con el agua, incluidos los bosques, las montañas, los humedales, los ríos, los acuíferos y los lagos
+
+**6.a**  De aquí a 2030, ampliar la cooperación internacional y el apoyo prestado a los países en desarrollo para la creación de capacidad en actividades y programas relativos al agua y el saneamiento, como los de captación de agua, desalinización, uso eficiente de los recursos hídricos, tratamiento de aguas residuales, reciclado y tecnologías de reutilización
+
+**6.b**  Apoyar y fortalecer la participación de las comunidades locales en la mejora de la gestión del agua y el saneamiento  
+
+## Objetivo 7: ENERGÍA ASEQUIBLE Y NO CONTAMINANTE  
+**Garantizar el acceso a una energía asequible, segura, sostenible y moderna para todos**  
+
+La energía es fundamental para casi todos los grandes desafíos y oportunidades a los que hace frente el mundo actualmente. Ya sea para el empleo, la seguridad, el cambio climático, la producción de alimentos o para aumentar los ingresos. El acceso universal a la energía es esencial.
+
+Trabajar para alcanzar las metas de este objetivo es especialmente importante ya que afecta directamente en la consecución de otros objetivos de desarrollo sostenible. Es vital apoyar nuevas iniciativas económicas y laborales que aseguren el acceso universal a los servicios de energía modernos, mejoren el rendimiento energético y aumenten el uso de fuentes renovables para crear comunidades más sostenibles e inclusivas y para la resiliencia ante problemas ambientales como el cambio climático.
+
+El acceso a tecnologías y combustibles menos contaminantes para cocinar aumentó al 57,4% en 2014, poco más que el 56,5% registrado en 2012. Más de 3000 millones de personas, la mayoría de Asia y África Subsahariana, todavía cocinan con combustibles muy contaminantes y tecnologías poco eficientes.
+
+En la actualidad, más de 3000 millones de personas, el 50% de ellas de África Subsahariana, todavía cocinan con combustibles muy contaminantes y tecnologías poco eficientes. Afortunadamente, la situación ha mejorado en la última década: la proporción de la energía renovable ha aumentado respecto al consumo final de energía gracias al uso de fuentes de energía como la hidroeléctrica, la solar y la eólica, y la proporción de energía utilizada por unidad de PIB también está disminuyendo.
+
+Sin embargo, el avance en todos los ámbitos de la energía sostenible no está a la altura de lo que se necesita para lograr su acceso universal y alcanzar las metas de este Objetivo. Se debe aumentar el uso de energía renovable en sectores como el de la calefacción y el transporte. Asimismo, son necesarias las inversiones públicas y privadas en energía; así como mayores niveles de financiación y políticas con compromisos más audaces, además de la buena disposición de los países para adoptar nuevas tecnologías en una escala mucho más amplia. 
+
+### Datos destacables  
+
+* El 13% de la población mundial aún no tiene acceso a servicios modernos de electricidad.
+* 3000 millones de personas dependen de la madera, el carbón, el carbón vegetal o los desechos de origen animal para cocinar y calentar la comida.
+* La energía es el factor que contribuye principalmente al cambio climático y representa alrededor del 60% de todas las emisiones mundiales de gases de efecto invernadero.
+* La contaminación del aire en locales cerrados debido al uso de combustibles para la energía doméstica causó 4,3 millones de muertes en 2012, 6 de cada 10 de estas fueron mujeres y niñas.
+* En 2015, el 17,5% del consumo final de energía fue de energías renovables.  
+
+### Metas  
+
+*7.1*  De aquí a 2030, garantizar el acceso universal a servicios energéticos asequibles, fiables y modernos
+
+*7.2*  De aquí a 2030, aumentar considerablemente la proporción de energía renovable en el conjunto de fuentes energéticas
+
+*7.3*  De aquí a 2030, duplicar la tasa mundial de mejora de la eficiencia energética
+
+*7.a*  De aquí a 2030, aumentar la cooperación internacional para facilitar el acceso a la investigación y la tecnología relativas a la energía limpia, incluidas las fuentes renovables, la eficiencia energética y las tecnologías avanzadas y menos contaminantes de combustibles fósiles, y promover la inversión en infraestructura energética y tecnologías limpias
+
+*7.b*  De aquí a 2030, ampliar la infraestructura y mejorar la tecnología para prestar servicios energéticos modernos y sostenibles para todos en los países en desarrollo, en particular los países menos adelantados, los pequeños Estados insulares en desarrollo y los países en desarrollo sin litoral, en consonancia con sus respectivos programas de apoyo  
+
+## Objetivo 8: 
+
+
+
