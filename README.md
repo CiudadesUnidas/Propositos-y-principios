@@ -42,8 +42,14 @@ Las Ciudades Unidas trabajamos para construir sociedades más justas, pacíficas
 
 A diferencia de las Naciones Unidas, nosotros trabajamos de abajo hacia arriba, conectando y organizando al talento ciudadano. Conoce los objetivos, involúcrate.
 
-## 1. Pobreza
-#### Problema
+## 1. Poner fin a la pobreza en todas sus formas en todo el mundo
+Pese a que la tasa de pobreza mundial se ha reducido a la mitad desde el año 2000, en las regiones en desarrollo aún una de cada diez personas, y sus familias, sigue subsistiendo con 1,90 dólares diarios y hay millones más que ganan poco más que esta cantidad diaria. Se han logrado avances significativos en muchos países del Asia oriental y sudoriental, pero casi el 42% de la población del África Subsahariana continúa viviendo por debajo del umbral de la pobreza.
+
+La pobreza va más allá de la falta de ingresos y recursos para garantizar unos medios de vida sostenibles. La pobreza es un problema de derechos humanos. Entre las distintas manifestaciones de la pobreza figuran el hambre, la malnutrición, la falta de una vivienda digna y el acceso limitado a otros servicios básicos como la educación o la salud. También se encuentran la discriminación y la exclusión social, que incluye la ausencia de la participación de los pobres en la adopción de decisiones, especialmente de aquellas que les afectan.
+
+Para lograr este Objetivo de acabar con la pobreza, el crecimiento económico debe ser inclusivo, con el fin de crear empleos sostenibles y de promover la igualdad. Los sistemas de protección social deben aplicarse para mitigar los riesgos de los países propensos a sufrir desastres y brindar apoyo para enfrentarse a las dificultades económicas. Estos sistemas ayudarán a fortalecer las respuestas de las poblaciones afectadas ante pérdidas económicas inesperadas durante los desastres y, finalmente, ayudarán a erradicar la pobreza extrema en las zonas más empobrecidas.
+
+#### Datos destacables
 * Unos 783 millones de personas vive por debajo del umbral de pobreza internacional, con 1,90 dólares diarios.
 * En 2016, menos del 10% de los trabajadores de todo el mundo vivían con sus familias con menos de 1,90 dólares diarios por persona.
 * La mayoría de las personas que viven por debajo del umbral de pobreza viven en dos regiones: Asia meridional y África subsahariana.
@@ -66,3 +72,5 @@ A diferencia de las Naciones Unidas, nosotros trabajamos de abajo hacia arriba, 
 **1.a**   Garantizar una movilización importante de recursos procedentes de diversas fuentes, incluso mediante la mejora de la cooperación para el desarrollo, a fin de proporcionar medios suficientes y previsibles a los países en desarrollo, en particular los países menos adelantados, para poner en práctica programas y políticas encaminados a poner fin a la pobreza en todas sus dimensiones
 
 **1.b**   Crear marcos normativos sólidos en los planos nacional, regional e internacional, sobre la base de estrategias de desarrollo en favor de los pobres que tengan en cuenta las cuestiones de género, a fin de apoyar la inversión acelerada en medidas para erradicar la pobreza
+
+## 2. 
