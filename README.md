@@ -191,4 +191,42 @@ Se necesitan muchas más iniciativas para erradicar por completo una amplia gama
 
 **3.c**  Aumentar sustancialmente la financiación de la salud y la contratación, el desarrollo, la capacitación y la retención del personal sanitario en los países en desarrollo, especialmente en los países menos adelantados y los pequeños Estados insulares en desarrollo
 
-**3.d**  Reforzar la capacidad de todos los países, en particular los países en desarrollo, en materia de alerta temprana, reducción de riesgos y gestión de los riesgos para la salud nacional y mundial
+**3.d**  Reforzar la capacidad de todos los países, en particular los países en desarrollo, en materia de alerta temprana, reducción de riesgos y gestión de los riesgos para la salud nacional y mundial  
+
+## Objetivo 4: Educación de Calidad  
+**Garantizar una educación inclusiva, equitativa y de calidad y promover oportunidades de aprendizaje durante toda la vida para todos**  
+
+La educación es la base para mejorar nuestra vida y el desarrollo sostenible. Además de mejorar la calidad de vida de las personas, el acceso a la educación inclusiva y equitativa puede ayudar abastecer a la población local con las herramientas necesarias para desarrollar soluciones innovadoras a los problemas más grandes del mundo.
+
+En la actualidad, más de 265 millones de niños y niñas no están escolarizados y el 22% de estos están en edad de asistir a la escuela primaria. Asimismo, los niños que asisten a la escuela carecen de los conocimientos básicos de lectura y aritmética. En la última decada, se han producido importantes avances con relación a la mejora de su acceso a todos los niveles y con el aumento  en las tasas de escolarización, sobre todo, en el caso de las mujeres y las niñas. También se ha mejorado en gran medida el nivel mínimo de alfabetización. Sin embargo, es necesario redoblar los esfuerzos para conseguir mayores avances para alcanzar los objetivos de la educación universal. Por ejemplo, el mundo ha alcanzado la igualdad entre niños y niñas en la educación primaria, pero pocos países han logrado sus objetivos en todos los niveles educativos.
+
+Las razones de la falta de una educación de calidad son la escasez de profesores capacitados y las malas condiciones de las escuelas de muchas zonas del mundo y las cuestiones de equidad relacionadas con las oportunidades que tienen niños y niñas de zonas rurales. Para que se brinde educación de calidad a los niños de familias empobrecidas, se necesita invertir en becas educativas, talleres de formación para docentes, construcción de escuelas y una mejora del acceso al agua y electricidad en las escuelas.  
+
+### Datos destacables  
+
+* La matriculación en la enseñanza primaria en los países en desarrollo ha alcanzado el 91%, pero 57 millones de niños en edad de escolarización primaria siguen sin asistir a la escuela.
+* Más de la mitad de los niños que no están matriculados en la escuela viven en el África Subsahariana.
+* Se estima que el 50% de los niños que no asisten a la escuela primaria viven en zonas afectadas por conflictos.
+* 617 millones de jóvenes en el mundo carecen de los conocimientos básicos en aritmética y de un nivel mínimo de alfabetización.  
+
+### Metas  
+
+**4.1**  De aquí a 2030, asegurar que todas las niñas y todos los niños terminen la enseñanza primaria y secundaria, que ha de ser gratuita, equitativa y de calidad y producir resultados de aprendizaje pertinentes y efectivos
+
+**4.2**  De aquí a 2030, asegurar que todas las niñas y todos los niños tengan acceso a servicios de atención y desarrollo en la primera infancia y educación preescolar de calidad, a fin de que estén preparados para la enseñanza primaria
+
+**4.3**  De aquí a 2030, asegurar el acceso igualitario de todos los hombres y las mujeres a una formación técnica, profesional y superior de calidad, incluida la enseñanza universitaria
+
+**4.4**  De aquí a 2030, aumentar considerablemente el número de jóvenes y adultos que tienen las competencias necesarias, en particular técnicas y profesionales, para acceder al empleo, el trabajo decente y el emprendimiento
+
+**4.5**  De aquí a 2030, eliminar las disparidades de género en la educación y asegurar el acceso igualitario a todos los niveles de la enseñanza y la formación profesional para las personas vulnerables, incluidas las personas con discapacidad, los pueblos indígenas y los niños en situaciones de vulnerabilidad
+
+**4.6**  De aquí a 2030, asegurar que todos los jóvenes y una proporción considerable de los adultos, tanto hombres como mujeres, estén alfabetizados y tengan nociones elementales de aritmética
+
+**4.7**  De aquí a 2030, asegurar que todos los alumnos adquieran los conocimientos teóricos y prácticos necesarios para promover el desarrollo sostenible, entre otras cosas mediante la educación para el desarrollo sostenible y los estilos de vida sostenibles, los derechos humanos, la igualdad de género, la promoción de una cultura de paz y no violencia, la ciudadanía mundial y la valoración de la diversidad cultural y la contribución de la cultura al desarrollo sostenible
+
+**4.a**  Construir y adecuar instalaciones educativas que tengan en cuenta las necesidades de los niños y las personas con discapacidad y las diferencias de género, y que ofrezcan entornos de aprendizaje seguros, no violentos, inclusivos y eficaces para todos
+
+**4.b**  De aquí a 2020, aumentar considerablemente a nivel mundial el número de becas disponibles para los países en desarrollo, en particular los países menos adelantados, los pequeños Estados insulares en desarrollo y los países africanos, a fin de que sus estudiantes puedan matricularse en programas de enseñanza superior, incluidos programas de formación profesional y programas técnicos, científicos, de ingeniería y de tecnología de la información y las comunicaciones, de países desarrollados y otros países en desarrollo
+
+**4.c**  De aquí a 2030, aumentar considerablemente la oferta de docentes calificados, incluso mediante la cooperación internacional para la formación de docentes en los países en desarrollo, especialmente los países menos adelantados y los pequeños Estados insulares en desarrollo
