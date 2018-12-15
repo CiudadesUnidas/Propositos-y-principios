@@ -76,7 +76,8 @@ Para lograr este Objetivo de acabar con la pobreza, el crecimiento económico de
 **1.b**   Crear marcos normativos sólidos en los planos nacional, regional e internacional, sobre la base de estrategias de desarrollo en favor de los pobres que tengan en cuenta las cuestiones de género, a fin de apoyar la inversión acelerada en medidas para erradicar la pobreza
 
 ## Objetivo 2: Hambre Cero
-**Poner fin al hambre, lograr la seguridad alimentaria y la mejora de la nutrición y promover la agricultura sostenible**  
+**Poner fin al hambre, lograr la seguridad alimentaria y la mejora de la nutrición y promover la agricultura sostenible**   
+
 El sector alimentario y el sector agrícola ofrecen soluciones claves para el desarrollo y son vitales para la eliminación del hambre y la pobreza. Gestionadas de forma adecuada, la agricultura, la silvicultura y la acuicultura pueden suministrar comida nutritiva a todo el planeta, así como generar ingresos decentes, apoyar el desarrollo centrado en las personas del campo y proteger el medio ambiente.
 
 Pero ahora mismo, nuestros suelos, océanos, bosques y nuestra agua potable y biodiversidad están sufriendo un rápido proceso de degradación debido a procesos de sobreexplotación.
