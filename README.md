@@ -310,7 +310,7 @@ Para mejorar el acceso a agua apta para el consumo y al saneamiento, y la gesti�
 
 **6.b**  Apoyar y fortalecer la participación de las comunidades locales en la mejora de la gestión del agua y el saneamiento  
 
-## Objetivo 7: ENERGÍA ASEQUIBLE Y NO CONTAMINANTE  
+## Objetivo 7: Energía Asequible y No Contaminante    
 **Garantizar el acceso a una energía asequible, segura, sostenible y moderna para todos**  
 
 La energía es fundamental para casi todos los grandes desafíos y oportunidades a los que hace frente el mundo actualmente. Ya sea para el empleo, la seguridad, el cambio climático, la producción de alimentos o para aumentar los ingresos. El acceso universal a la energía es esencial.
@@ -333,17 +333,102 @@ Sin embargo, el avance en todos los ámbitos de la energía sostenible no está 
 
 ### Metas  
 
-*7.1*  De aquí a 2030, garantizar el acceso universal a servicios energéticos asequibles, fiables y modernos
+**7.1**  De aquí a 2030, garantizar el acceso universal a servicios energéticos asequibles, fiables y modernos
 
-*7.2*  De aquí a 2030, aumentar considerablemente la proporción de energía renovable en el conjunto de fuentes energéticas
+**7.2**  De aquí a 2030, aumentar considerablemente la proporción de energía renovable en el conjunto de fuentes energéticas
 
-*7.3*  De aquí a 2030, duplicar la tasa mundial de mejora de la eficiencia energética
+**7.3**  De aquí a 2030, duplicar la tasa mundial de mejora de la eficiencia energética
 
-*7.a*  De aquí a 2030, aumentar la cooperación internacional para facilitar el acceso a la investigación y la tecnología relativas a la energía limpia, incluidas las fuentes renovables, la eficiencia energética y las tecnologías avanzadas y menos contaminantes de combustibles fósiles, y promover la inversión en infraestructura energética y tecnologías limpias
+**7.a**  De aquí a 2030, aumentar la cooperación internacional para facilitar el acceso a la investigación y la tecnología relativas a la energía limpia, incluidas las fuentes renovables, la eficiencia energética y las tecnologías avanzadas y menos contaminantes de combustibles fósiles, y promover la inversión en infraestructura energética y tecnologías limpias
 
-*7.b*  De aquí a 2030, ampliar la infraestructura y mejorar la tecnología para prestar servicios energéticos modernos y sostenibles para todos en los países en desarrollo, en particular los países menos adelantados, los pequeños Estados insulares en desarrollo y los países en desarrollo sin litoral, en consonancia con sus respectivos programas de apoyo  
+**7.b**  De aquí a 2030, ampliar la infraestructura y mejorar la tecnología para prestar servicios energéticos modernos y sostenibles para todos en los países en desarrollo, en particular los países menos adelantados, los pequeños Estados insulares en desarrollo y los países en desarrollo sin litoral, en consonancia con sus respectivos programas de apoyo  
 
-## Objetivo 8: 
+## Objetivo 8: Trabajo Decente y Crecimiento Económico  
+**Promover el crecimiento económico sostenido, inclusivo y sostenible, el empleo pleno y productivo y el trabajo decente para todos**  
+
+Aproximadamente la mitad de la población mundial todavía vive con el equivalente a unos 2 dólares estadounidenses diarios, con una tasa mundial de desempleo del 5.7%, y en muchos lugares el hecho de tener un empleo no garantiza la capacidad para escapar de la pobreza. Debemos reflexionar sobre este progreso lento y desigual, y revisar nuestras políticas económicas y sociales destinadas a erradicar la pobreza.
+
+La continua falta de oportunidades de trabajo decente, la insuficiente inversión y el bajo consumo producen una erosión del contrato social básico subyacente en las sociedades democráticas: el derecho de todos a compartir el progreso. La creación de empleos de calidad sigue constituyendo un gran desafío para casi todas las economías.
+
+Aunque la tasa media de crecimiento anual del PIB real per cápita en todo el mundo va en aumento año tras año, todavía hay muchos países menos adelantados en los que las tasas de crecimiento están desacelerando y lejos de alcanzar la tasa del 7% establecida para 2030. La disminución de la productividad laboral y aumento de las tasas de desempleo influyen negativamente en el nivel de vida y los salarios.
+
+Para conseguir el desarrollo económico sostenible, las sociedades deberán crear las condiciones necesarias para que las personas accedan a empleos de calidad, estimulando la economía sin dañar el medio ambiente. También tendrá que haber oportunidades laborales para toda la población en edad de trabajar, con condiciones de trabajo decentes. Asimismo, el aumento de la productividad laboral, la reducción de la tasa de desempleo, especialmente entre los jóvenes, y la mejora del acceso a los servicios financieros para gestionar los ingresos, acumular activos y realizar inversiones productivas son componentes esenciales de un crecimiento económico sostenido e inclusivo. El aumento de los compromisos con el comercio, la banca y la infraestructura agrícola también ayudará a aumentar la productividad y a reducir los niveles de desempleo en las regiones más empobrecidas del mundo.  
+
+### Datos destacables  
+
+* En  2017, la tasa de mundial de desempleo se situaba en el 5,6%, frente al 6,4% del año 2000.
+* En todo el mundo, en 2016 el 61% de los trabajadores tenía un empleo no regulado. Exceptuando el sector agrícola, el 51% de todos los trabajadores se incluyeron en esta categoría de empleo.
+* Los hombres ganan 12,5% más que las mujeres en 40 de los 45 países de los que se tienen datos.
+* La brecha salarial de género en todo el mundo se sitúa en el 23% y, si no se toman medidas, se necesitarán otros 68 años para lograr la igualdad salarial. La tasa de participación de la mujer en la población activa es del 63%, mientras que la de los hombres es del 94%.
+* A pesar de su creciente presencia en la vida pública, las mujeres se siguen haciendo cargo 2,6 veces más del cuidado de personas no remunerado y del trabajo doméstico que los hombres.
+* Entre 2016 y 2030, se necesitan 470 millones de puestos de trabajo en todo el mundo para aquellos que van a acceder por vez primera al mercado laboral.  
+
+### Metas
+
+**8.1**  Mantener el crecimiento económico per capita de conformidad con las circunstancias nacionales y, en particular, un crecimiento del producto interno bruto de al menos el 7% anual en los países menos adelantados
+
+**8.2**  Lograr niveles más elevados de productividad económica mediante la diversificación, la modernización tecnológica y la innovación, entre otras cosas centrándose en los sectores con gran valor añadido y un uso intensivo de la mano de obra
+
+**8.3**  Promover políticas orientadas al desarrollo que apoyen las actividades productivas, la creación de puestos de trabajo decentes, el emprendimiento, la creatividad y la innovación, y fomentar la formalización y el crecimiento de las microempresas y las pequeñas y medianas empresas, incluso mediante el acceso a servicios financieros
+
+**8.4** Mejorar progresivamente, de aquí a 2030, la producción y el consumo eficientes de los recursos mundiales y procurar desvincular el crecimiento económico de la degradación del medio ambiente, conforme al Marco Decenal de Programas sobre modalidades de Consumo y Producción Sostenibles, empezando por los países desarrollados
+
+**8.5**  De aquí a 2030, lograr el empleo pleno y productivo y el trabajo decente para todas las mujeres y los hombres, incluidos los jóvenes y las personas con discapacidad, así como la igualdad de remuneración por trabajo de igual valor
+
+**8.6**  De aquí a 2020, reducir considerablemente la proporción de jóvenes que no están empleados y no cursan estudios ni reciben capacitación
+
+**8.7**  Adoptar medidas inmediatas y eficaces para erradicar el trabajo forzoso, poner fin a las formas contemporáneas de esclavitud y la trata de personas y asegurar la prohibición y eliminación de las peores formas de trabajo infantil, incluidos el reclutamiento y la utilización de niños soldados, y, de aquí a 2025, poner fin al trabajo infantil en todas sus formas
+
+**8.8**  Proteger los derechos laborales y promover un entorno de trabajo seguro y sin riesgos para todos los trabajadores, incluidos los trabajadores migrantes, en particular las mujeres migrantes y las personas con empleos precarios
+
+**8.9**  De aquí a 2030, elaborar y poner en práctica políticas encaminadas a promover un turismo sostenible que cree puestos de trabajo y promueva la cultura y los productos locales
+
+**8.10**  Fortalecer la capacidad de las instituciones financieras nacionales para fomentar y ampliar el acceso a los servicios bancarios, financieros y de seguros para todos
+
+**8.a**  Aumentar el apoyo a la iniciativa de ayuda para el comercio en los países en desarrollo, en particular los países menos adelantados, incluso mediante el Marco Integrado Mejorado para la Asistencia Técnica a los Países Menos Adelantados en Materia de Comercio
+
+**8.b**  De aquí a 2020, desarrollar y poner en marcha una estrategia mundial para el empleo de los jóvenes y aplicar el Pacto Mundial para el Empleo de la Organización Internacional del Trabajo  
+
+## Objetivo 9: Industria, Innovación e Infraestructuras  
+**Construir infraestructuras resilientes, promover la industrialización inclusiva y sostenible y fomentar la innovación**
+
+Desde hace tiempo se reconoce que para conseguir una economía robusta se necesitan inversiones en infraestructura (transporte, regadío, energía, tecnología de la información y las comunicaciones). Estas son fundamentales para lograr un desarrollo sostenible, empoderar a las  sociedades de numerosos países, fomentar una mayor estabilidad social y conseguir ciudades más resistentes al cambio climático.
+
+El sector manufacturero es un impulsor importante del desarrollo económico y del empleo. En la actualidad, sin embargo, el valor agregado de la industralización per cápita es solo de 100 dólares en los países menos desarrollados en comparación con más de 4500 dólares en Europa y América del Norte. Otro factor importante a considerar es la emisión de dióxido de carbono durante los procesos de fabricación. Las emisiones han disminuido en la última década en muchos países, pero esta disminución no ha sido uniforme en todo el mundo.
+
+El progreso tecnológico debe estar en la base de los esfuerzos para alcanzar los objetivos medioambientales, como el aumento de los recursos y la eficiencia energética. Sin tecnología e innovación, la industrialización no ocurrirá, y sin industrialización, no habrá desarrollo. Es necesario invertir más en productos de alta tecnología que dominen las producciones manufactureras para aumentar la eficiencia y mejorar los servicios celulares móviles para que las personas puedan conectadas.  
+
+### Datos destacables  
+
+* La infraestructura básica, como las carreteras, las tecnologías de la información y la comunicación, el saneamiento, la energía eléctrica y el agua, sigue siendo escasa en muchos países en desarrollo
+* El 16% de la población mundial no tiene acceso a redes de banda ancha móvil.
+* Para muchos países africanos, sobre todo en los países con menores ingresos, las limitaciones en materia de infraestructura afectan la productividad de las empresas en alrededor del 40%.
+* La proporción mundial del valor agregado manufacturero en el PIB aumentó del 15,2% en 2005 al 16,3% en 2017, impulsado por el rápido crecimiento de las industrialización en Asia.
+* El efecto de multiplicación del trabajo de la industrialización tiene un impacto positivo en la sociedad. Cada trabajo en la industriA crea 2,2 empleos en otros sectores.
+* Las pequeñas y medianas empresas que se dedican al procesamiento industrial y la producción manufactura son las más críticas en las primeras etapas de la industrialización y, por lo general, son los mayores creadores de empleos. Constituyen más del 90% de las empresas de todo el mundo y representan entre el 50 y el 60% del empleo.
+* Los países menos adelantados tienen un inmenso potencial de industrialización en alimentos y bebidas (agroindustria) y textiles y prendas de vestir, con buenas perspectivas de generación de empleo sostenido y mayor productividad.
+* Los países de ingresos medianos pueden beneficiarse al ingresar a las industrias de metales básicos y de fabricación, que ofrecen una gama de productos que enfrentan una demanda internacional en rápido crecimiento.
+* En los países en desarrollo, apenas el 30% de la producción agrícola se somete a procesos industriales. En los países de altos ingresos, el 98% se procesa. Esto sugiere que hay grandes oportunidades para los países en desarrollo en materia de agronegocios.  
+
+### Metas  
+
+**9.1** Desarrollar infraestructuras fiables, sostenibles, resilientes y de calidad, incluidas infraestructuras regionales y transfronterizas, para apoyar el desarrollo económico y el bienestar humano, haciendo especial hincapié en el acceso asequible y equitativo para todos
+
+**9.2** Promover una industrialización inclusiva y sostenible y, de aquí a 2030, aumentar significativamente la contribución de la industria al empleo y al producto interno bruto, de acuerdo con las circunstancias nacionales, y duplicar esa contribución en los países menos adelantados
+
+**9.3** Aumentar el acceso de las pequeñas industrias y otras empresas, particularmente en los países en desarrollo, a los servicios financieros, incluidos créditos asequibles, y su integración en las cadenas de valor y los mercados
+
+**9.4** De aquí a 2030, modernizar la infraestructura y reconvertir las industrias para que sean sostenibles, utilizando los recursos con mayor eficacia y promoviendo la adopción de tecnologías y procesos industriales limpios y ambientalmente racionales, y logrando que todos los países tomen medidas de acuerdo con sus capacidades respectivas
+
+**9.5** Aumentar la investigación científica y mejorar la capacidad tecnológica de los sectores industriales de todos los países, en particular los países en desarrollo, entre otras cosas fomentando la innovación y aumentando considerablemente, de aquí a 2030, el número de personas que trabajan en investigación y desarrollo por millón de habitantes y los gastos de los sectores público y privado en investigación y desarrollo
+
+**9.a** Facilitar el desarrollo de infraestructuras sostenibles y resilientes en los países en desarrollo mediante un mayor apoyo financiero, tecnológico y técnico a los países africanos, los países menos adelantados, los países en desarrollo sin litoral y los pequeños Estados insulares en desarrollo
+
+**9.b** Apoyar el desarrollo de tecnologías, la investigación y la innovación nacionales en los países en desarrollo, incluso garantizando un entorno normativo propicio a la diversificación industrial y la adición de valor a los productos básicos, entre otras cosas
+
+**9.c** Aumentar significativamente el acceso a la tecnología de la información y las comunicaciones y esforzarse por proporcionar acceso universal y asequible a Internet en los países menos adelantados de aquí a 2020  
+
+## Objetivo 10: 
 
 
 
