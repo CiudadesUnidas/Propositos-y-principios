@@ -428,7 +428,8 @@ El progreso tecnológico debe estar en la base de los esfuerzos para alcanzar lo
 
 **9.c** Aumentar significativamente el acceso a la tecnología de la información y las comunicaciones y esforzarse por proporcionar acceso universal y asequible a Internet en los países menos adelantados de aquí a 2020  
 
-## Objetivo 10: 
+## Objetivo 10: Reducción de la Desigualdad  
+**
 
 
 
